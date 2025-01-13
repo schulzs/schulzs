@@ -1,4 +1,7 @@
-## Hi there 👋
+I'm, as always, working on the automatization of reasoning, in particular
+formal mathematical reasoning. In between, I teach theoretical computer
+science, and currently, it seems, some math and programming (in one 
+unified lecture series, which will be wild!).
 
 <!--
 **schulzs/schulzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
